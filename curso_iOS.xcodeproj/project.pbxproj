@@ -35,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A14BA2E81C5DACD600846293 /* JuegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegoDeMemoria.playground; sourceTree = "<group>"; };
 		A194E7071C59CEC300E33DB1 /* curso_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = curso_iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A194E70A1C59CEC300E33DB1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A194E70C1C59CEC300E33DB1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 		A194E6FE1C59CEC300E33DB1 = {
 			isa = PBXGroup;
 			children = (
+				A14BA2E81C5DACD600846293 /* JuegoDeMemoria.playground */,
 				A194E7091C59CEC300E33DB1 /* curso_iOS */,
 				A194E7211C59CEC400E33DB1 /* curso_iOSTests */,
 				A194E72C1C59CEC400E33DB1 /* curso_iOSUITests */,
@@ -486,6 +488,7 @@
 				A194E7341C59CEC400E33DB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A194E7351C59CEC400E33DB1 /* Build configuration list for PBXNativeTarget "curso_iOSTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +497,7 @@
 				A194E7371C59CEC400E33DB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A194E7381C59CEC400E33DB1 /* Build configuration list for PBXNativeTarget "curso_iOSUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +506,7 @@
 				A194E73A1C59CEC400E33DB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
