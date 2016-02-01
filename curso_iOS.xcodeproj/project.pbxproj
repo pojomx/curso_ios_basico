@@ -6,17 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		A194E70B1C59CEC300E33DB1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A194E70A1C59CEC300E33DB1 /* AppDelegate.swift */; };
-		A194E70D1C59CEC300E33DB1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A194E70C1C59CEC300E33DB1 /* ViewController.swift */; };
-		A194E7101C59CEC300E33DB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A194E70E1C59CEC300E33DB1 /* Main.storyboard */; };
-		A194E7131C59CEC300E33DB1 /* curso_iOS.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A194E7111C59CEC300E33DB1 /* curso_iOS.xcdatamodeld */; };
-		A194E7151C59CEC300E33DB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A194E7141C59CEC300E33DB1 /* Assets.xcassets */; };
-		A194E7181C59CEC300E33DB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A194E7161C59CEC300E33DB1 /* LaunchScreen.storyboard */; };
-		A194E7231C59CEC400E33DB1 /* curso_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A194E7221C59CEC400E33DB1 /* curso_iOSTests.swift */; };
-		A194E72E1C59CEC400E33DB1 /* curso_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A194E72D1C59CEC400E33DB1 /* curso_iOSUITests.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		A194E71F1C59CEC400E33DB1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -36,20 +25,10 @@
 
 /* Begin PBXFileReference section */
 		A14BA2E81C5DACD600846293 /* JuegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegoDeMemoria.playground; sourceTree = "<group>"; };
-		A194E7071C59CEC300E33DB1 /* curso_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = curso_iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A194E70A1C59CEC300E33DB1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A194E70C1C59CEC300E33DB1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A194E70F1C59CEC300E33DB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A194E7121C59CEC300E33DB1 /* curso_iOS.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = curso_iOS.xcdatamodel; sourceTree = "<group>"; };
-		A194E7141C59CEC300E33DB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A194E7171C59CEC300E33DB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A194E7191C59CEC300E33DB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A194E71E1C59CEC400E33DB1 /* curso_iOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = curso_iOSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A194E7221C59CEC400E33DB1 /* curso_iOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = curso_iOSTests.swift; sourceTree = "<group>"; };
-		A194E7241C59CEC400E33DB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A194E7291C59CEC400E33DB1 /* curso_iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = curso_iOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A194E72D1C59CEC400E33DB1 /* curso_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = curso_iOSUITests.swift; sourceTree = "<group>"; };
-		A194E72F1C59CEC400E33DB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A18B67FB1C5FEB3800E4872A /* VelocimetroDeUnAutomovilDigital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VelocimetroDeUnAutomovilDigital.playground; sourceTree = "<group>"; };
+		A194E7071C59CEC300E33DB1 /* curso_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = curso_iOS.app; path = "/Users/alanmilke/Desarrollo/iOS/curso_unam/curso_iOS/build/Debug-iphoneos/curso_iOS.app"; sourceTree = "<absolute>"; };
+		A194E71E1C59CEC400E33DB1 /* curso_iOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = curso_iOSTests.xctest; path = "/Users/alanmilke/Desarrollo/iOS/curso_unam/curso_iOS/build/Debug-iphoneos/curso_iOSTests.xctest"; sourceTree = "<absolute>"; };
+		A194E7291C59CEC400E33DB1 /* curso_iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = curso_iOSUITests.xctest; path = "/Users/alanmilke/Desarrollo/iOS/curso_unam/curso_iOS/build/Debug-iphoneos/curso_iOSUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,54 +59,9 @@
 		A194E6FE1C59CEC300E33DB1 = {
 			isa = PBXGroup;
 			children = (
+				A18B67FB1C5FEB3800E4872A /* VelocimetroDeUnAutomovilDigital.playground */,
 				A14BA2E81C5DACD600846293 /* JuegoDeMemoria.playground */,
-				A194E7091C59CEC300E33DB1 /* curso_iOS */,
-				A194E7211C59CEC400E33DB1 /* curso_iOSTests */,
-				A194E72C1C59CEC400E33DB1 /* curso_iOSUITests */,
-				A194E7081C59CEC300E33DB1 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		A194E7081C59CEC300E33DB1 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				A194E7071C59CEC300E33DB1 /* curso_iOS.app */,
-				A194E71E1C59CEC400E33DB1 /* curso_iOSTests.xctest */,
-				A194E7291C59CEC400E33DB1 /* curso_iOSUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		A194E7091C59CEC300E33DB1 /* curso_iOS */ = {
-			isa = PBXGroup;
-			children = (
-				A194E70A1C59CEC300E33DB1 /* AppDelegate.swift */,
-				A194E70C1C59CEC300E33DB1 /* ViewController.swift */,
-				A194E70E1C59CEC300E33DB1 /* Main.storyboard */,
-				A194E7141C59CEC300E33DB1 /* Assets.xcassets */,
-				A194E7161C59CEC300E33DB1 /* LaunchScreen.storyboard */,
-				A194E7191C59CEC300E33DB1 /* Info.plist */,
-				A194E7111C59CEC300E33DB1 /* curso_iOS.xcdatamodeld */,
-			);
-			path = curso_iOS;
-			sourceTree = "<group>";
-		};
-		A194E7211C59CEC400E33DB1 /* curso_iOSTests */ = {
-			isa = PBXGroup;
-			children = (
-				A194E7221C59CEC400E33DB1 /* curso_iOSTests.swift */,
-				A194E7241C59CEC400E33DB1 /* Info.plist */,
-			);
-			path = curso_iOSTests;
-			sourceTree = "<group>";
-		};
-		A194E72C1C59CEC400E33DB1 /* curso_iOSUITests */ = {
-			isa = PBXGroup;
-			children = (
-				A194E72D1C59CEC400E33DB1 /* curso_iOSUITests.swift */,
-				A194E72F1C59CEC400E33DB1 /* Info.plist */,
-			);
-			path = curso_iOSUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -218,7 +152,7 @@
 				Base,
 			);
 			mainGroup = A194E6FE1C59CEC300E33DB1;
-			productRefGroup = A194E7081C59CEC300E33DB1 /* Products */;
+			productRefGroup = A194E6FE1C59CEC300E33DB1;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -234,9 +168,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A194E7181C59CEC300E33DB1 /* LaunchScreen.storyboard in Resources */,
-				A194E7151C59CEC300E33DB1 /* Assets.xcassets in Resources */,
-				A194E7101C59CEC300E33DB1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,9 +192,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A194E7131C59CEC300E33DB1 /* curso_iOS.xcdatamodeld in Sources */,
-				A194E70D1C59CEC300E33DB1 /* ViewController.swift in Sources */,
-				A194E70B1C59CEC300E33DB1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,7 +199,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A194E7231C59CEC400E33DB1 /* curso_iOSTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,7 +206,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A194E72E1C59CEC400E33DB1 /* curso_iOSUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,25 +223,6 @@
 			targetProxy = A194E72A1C59CEC400E33DB1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		A194E70E1C59CEC300E33DB1 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A194E70F1C59CEC300E33DB1 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		A194E7161C59CEC300E33DB1 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A194E7171C59CEC300E33DB1 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		A194E7301C59CEC400E33DB1 /* Debug */ = {
@@ -509,19 +416,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		A194E7111C59CEC300E33DB1 /* curso_iOS.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				A194E7121C59CEC300E33DB1 /* curso_iOS.xcdatamodel */,
-			);
-			currentVersion = A194E7121C59CEC300E33DB1 /* curso_iOS.xcdatamodel */;
-			path = curso_iOS.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = A194E6FF1C59CEC300E33DB1 /* Project object */;
 }
